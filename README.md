@@ -8,6 +8,7 @@ Specifically, the osmnx library in Python can be utilized to identify and analyz
 ## Dataset
 
 Using the "Pakistan House Price Prediction" dataset, which includes information on property location, type, price, and attributes, it is proposed to analyze the effects of openstreetmap tags on property prices.
+Dataset can be found [here](https://www.kaggle.com/code/hadeerismail/pakistan-house-price-prediction-eda-ml-model/data). 
 
 ### Installation and Loading Libraries
 ```python
